@@ -1,8 +1,8 @@
 /*
 活动名称：幸运抽奖（超级无线）
-活动链接：https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=<10001/10004/10020/10021/10026/10041/10042/10046/10054/10062/10063/10073/10080>&templateId=<模板id>&activityId=<活动id>&prd=cjwx
-		https://lzkj-isv.isvjcloud.com/prod/cc/interaction/v1/index?activityType=<10001/10004/10020/10021/10026/10041/10042/10046/10054/10062/10063/10073/10080>&templateId=<模板id>&activityId=<活动id>&prd=cjwx
-        https://lorealjdcampaign-rc.isvjcloud.com/interact/index?activityType=<10001/10004/10020/10021/10026/10041/10042/10046/10054/10062/10063/10073/10080>&activityId=<活动id>&templateId=<模板id>&prd=crm
+活动链接：https://lzkj-isv.isvjcloud.com/prod/cc/interactsaas/index?activityType=<10001/10004/10020/10021/10026/10031/10041/10042/10046/10054/10062/10063/10073/10080>&templateId=<模板id>&activityId=<活动id>&prd=cjwx
+		https://lzkj-isv.isvjcloud.com/prod/cc/interaction/v1/index?activityType=<10001/10004/10020/10021/10026/10031/10041/10042/10046/10054/10062/10063/10073/10080>&templateId=<模板id>&activityId=<活动id>&prd=cjwx
+        https://lorealjdcampaign-rc.isvjcloud.com/interact/index?activityType=<10001/10004/10020/10021/10026/10031/10041/10042/10046/10054/10062/10063/10073/10080>&activityId=<活动id>&templateId=<模板id>&prd=crm
 环境变量：jd_lzkj_loreal_draw_url // 活动链接
 		jd_lzkj_loreal_draw_opencard // 是否入会（true/false），默认不入会
         jd_lzkj_loreal_draw_Notify // 是否推送通知（true/false），默认不推送
