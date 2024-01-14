@@ -1,9 +1,6 @@
 /*
 活动名称：gzsl-幸运抽奖
-活动链接：https://gzsl-isv.isvjcloud.com/wuxian/user/contact/<活动id>
-          https://gzsl-isv.isvjcloud.com/wuxian/user/contactWare/<活动id>
-          https://gzsl-isv.isvjcloud.com/wuxian/mobileForApp/dist2/views/pages/followGift.html?activityId=<活动id>
-          https://gzsl-isv.isvjcloud.com/wuxian/mobileForApp/dist2/views/pages/followPro.html?activityId=<活动id>
+活动链接：https://gzsl-isv.isvjcloud.com/wuxian/mobileForApp/dist2/views/pages/gameDZP_36.html?activityId=<活动id>
 环境变量：jd_gzsl_lottery_url // 活动链接
          jd_gzsl_lottery_Notify // 是否通知（true/false），默认不通知
          jd_gzsl_lottery_opencard // 是否入会（true/false），默认不入会
