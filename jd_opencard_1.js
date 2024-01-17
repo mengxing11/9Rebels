@@ -4,7 +4,7 @@ joinCommon开卡
 //export jd_opencard_draw="3" //抽奖次数 3
 //export jd_opencard_break="true" //493后继续执行，默认退出运行
 
-cron:1 1 1 1 * jd_joinCommon_opencard.js
+cron "1 1 1 1 *" script-path=jd_opencard.js, tag=1.17-1.24 冬日焕新 大牌联盟
 
 */
 
